@@ -42,3 +42,12 @@
     display: flex;
     border: 2px solid red;
 }
+
+.bg-img {
+    height: 300px;
+    width: 100%;
+    position: absolute;
+    top: -18px;
+    left: 0;
+    z-index: -9;
+}
