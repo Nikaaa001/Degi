@@ -1,6 +1,6 @@
 
 .header-cont {
-    height: 50px;
+    height: 55px;
     padding: 0 21px;
     display: flex;
     justify-content: space-between;
@@ -15,7 +15,7 @@
     height: 30px;
     color: #000;
     font-family: Inter;
-    font-size: 14px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
@@ -30,7 +30,7 @@
 .header-menu-items {
     color: black;
     font-family: Inter;
-    font-size: 12px;
+    font-size: 13px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
